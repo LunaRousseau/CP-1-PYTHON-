@@ -1,0 +1,12 @@
+[
+    {
+        "code": "P001",
+        "name": "Exemplo Mouse",
+        "category": "eletronicos",
+        "qty": 10,
+        "price": 59.9,
+        "supplier": "ACME Ltda",
+        "description": "Mouse USB exemplo",
+        "threshold": 5
+    }
+]
