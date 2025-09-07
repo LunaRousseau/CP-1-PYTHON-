@@ -1,13 +1,9 @@
 # Sistema de Gestão de Estoque (Inventário) - Entrega
 
-**Instruções:** Este repositório contém um sistema em Python para cadastro de produtos e gestão de estoque conforme solicitado.
-
-**ATENÇÃO:** Substitua os placeholders abaixo pelos nomes e RMs reais dos integrantes do grupo antes de enviar.
 
 ## Integrantes
 - Luna Rousseau - RM: 564215
-- NOME COMPLETO 2 - RM: 000000
-- NOME COMPLETO 3 - RM: 000000
+
 
 ## Requisitos
 - Python 3.8+
@@ -53,21 +49,3 @@ Exemplos:
 ## Persistência
 Os dados são salvos em `data/products.json` automaticamente.
 
-## Como gerar o link do GitHub (passo a passo)
-1. Crie um repositório no GitHub (por exemplo: `inventory-system`).
-2. No terminal dentro da pasta do projeto:
-```bash
-git init
-git add .
-git commit -m "Entrega: sistema de gestão de estoque"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/NOME_REPO.git
-git push -u origin main
-```
-3. Copie o link do repositório e entregue conforme solicitado.
-
----
-
-Se desejar, eu já posso preencher os nomes e RMs se você me enviar — ou posso fazer o push para um repositório público **se você me der credenciais**, mas por segurança não recomendamos enviar credenciais. Melhor: eu entrego o zip e orientações e você faz o push.
-
-Boa sorte na entrega!
